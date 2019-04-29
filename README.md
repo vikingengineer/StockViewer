@@ -6,6 +6,7 @@ Function found in stockHistoryYF.py takes stock name, start date (YYYY-MM-DD) an
 The FinanceTrackerYF.py program takes the function and allows you to run it against a csv file holding multiple stock tickers.
 
 Useful reading for this project is as follows:
+
 https://aroussi.com/post/python-yahoo-finance
 https://learndatasci.com/tutorials/python-finance-part-yahoo-finance-api-pandas-matplotlib/
 https://www.quantinsti.com/blog/build-technical-indicators-in-python
