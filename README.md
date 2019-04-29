@@ -8,7 +8,9 @@ The FinanceTrackerYF.py program takes the function and allows you to run it agai
 Useful reading for this project is as follows:
 
 https://aroussi.com/post/python-yahoo-finance
+
 https://learndatasci.com/tutorials/python-finance-part-yahoo-finance-api-pandas-matplotlib/
+
 https://www.quantinsti.com/blog/build-technical-indicators-in-python
 
 *Please note that the code is still a current work in progress and not a final product. Use at your own risk.
