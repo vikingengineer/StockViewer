@@ -1,3 +1,5 @@
+# 24 April 2019
+# Created by R. Krutz
 def stockHistoryYF(ticker, start_date, end_date):
     import pandas as pd
     #from pandas_datareader import data as pdr
